@@ -97,7 +97,7 @@ Optional evaluation datasets:
 
 Start with:
 
-- ResNet-18;
+- ResNet-52;
 - small WideResNet if available.
 
 Avoid ViT at the beginning. The first goal is reliable logging, not model novelty.
