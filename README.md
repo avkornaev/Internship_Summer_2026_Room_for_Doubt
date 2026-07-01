@@ -237,7 +237,7 @@ OOD/selective evaluation:
 
 Start:
 
-- ResNet-18 trained on CIFAR-10N.
+- ResNet-54 trained on CIFAR-10N.
 
 Add if time allows:
 
